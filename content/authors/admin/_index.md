@@ -3,7 +3,7 @@ title: Dinesh Patnaik
 role: Researcher of Artificial Intelligence
 avatar_filename: ""
 organizations:
-  - name: Stanford University
+  - name: SRM Institute of Science & Technology,Chennai
     url: ""
 superuser: true
 authors:
@@ -31,15 +31,9 @@ social:
     link: https://twitter.com/patnaikdinesh44
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: B.Tech in Electronics and Communications Engineering
+      institution: SRM Institute of Science and Technology
+      year: 2020
 email: ""
 user_groups:
   - Researchers
