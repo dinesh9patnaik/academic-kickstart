@@ -18,19 +18,35 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "90%"
+  description = "80%"
   
 [[feature]]
   icon = "cuttlefish"
   icon_pack = "fab"
   name = "C"
-  description = "90%"  
+  description = "80%"  
   
 [[feature]]
   icon = "js"
   icon_pack = "fab"
   name = "Javascript"
-  description = "90%"
+  description = "60%"
+  
+[[feature]]
+  icon = "java"
+  icon_pack = "fab"
+  name = "Java"
+  description = "60%"
+[[feature]]
+  icon = "aws"
+  icon_pack = "fab"
+  name = "AWS"
+  description = "60%"
+[[feature]]
+  icon = "docker"
+  icon_pack = "fab"
+  name = "Docker"
+  description = "60%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
