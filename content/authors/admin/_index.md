@@ -17,9 +17,9 @@ interests:
   - MERN Stack
   - Flutter
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: "#contact"
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/dinesh-patnaik-b2235887/
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
