@@ -17,18 +17,18 @@ interests:
   - MERN Stack
   - Flutter
 social:
+  - icon: envelope
+    icon_pack: fas
+    link: patnaikdinesh44@gmail.com
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/dinesh-patnaik-b2235887/
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/dinesh9patnaik
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/patnaikdinesh44
 education:
   courses:
     - course: PhD in Artificial Intelligence
