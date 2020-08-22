@@ -1,7 +1,7 @@
 ---
 title: Dinesh Patnaik
 role: Researcher of Artificial Intelligence
-avatar_filename: img_20151229_104153.jpg
+avatar_filename: ""
 organizations:
   - name: Stanford University
     url: ""
@@ -12,8 +12,10 @@ bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Deep Learning
+  - Machine Learning
+  - MERN Stack
+  - Flutter
 social:
   - icon: envelope
     icon_pack: fas
