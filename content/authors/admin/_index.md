@@ -1,12 +1,13 @@
 ---
+title: Dinesh Patnaik
+role: Researcher of Artificial Intelligence
+avatar_filename: img_20151229_104153.jpg
 organizations:
   - name: Stanford University
     url: ""
 superuser: true
 authors:
   - admin
-title: Dinesh Patnaik
-role: Professor of Artificial Intelligence
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
